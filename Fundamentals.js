@@ -1,6 +1,6 @@
 Javascript is object oriented program and no distinction b/w objects.
 
-While writing gunctions this is syntax
+While writing functions this is syntax
 
 (function (){
   function function_name(parameters){
