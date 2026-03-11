@@ -19,5 +19,10 @@ Operator precedence is ()->increments->Exponentation->*->/->%->+->-
 Comma operator is used it is rare
 a = (1+2,3+4) 3+4 is only executed.
 
+A variable declared inside function is known as local variable.
+When a value is passed as a function parameter, it’s also called an argument.
+
+
+
 
 
