@@ -21,6 +21,13 @@ a = (1+2,3+4) 3+4 is only executed.
 
 A variable declared inside function is known as local variable.
 When a value is passed as a function parameter, it’s also called an argument.
+Global variables are visible from any function 
+
+shift method in arrays removes first element of array.
+unshift method in arrays will add a element to end of array.
+
+
+
 
 
 
